@@ -1,0 +1,8 @@
+E:\Egger\Anduril\Anduril.Web\bin\Anduril.Web.dll
+E:\Egger\Anduril\Anduril.Web\bin\Anduril.Web.pdb
+E:\Egger\Anduril\Anduril.Web\obj\Debug\Anduril.Web.csprojResolveAssemblyReference.cache
+E:\Egger\Anduril\Anduril.Web\obj\Debug\Anduril.Web.dll
+E:\Egger\Anduril\Anduril.Web\obj\Debug\Anduril.Web.pdb
+E:\Egger\Anduril\Anduril.Web\bin\EntityFramework.dll
+E:\Egger\Anduril\Anduril.Web\bin\EntityFramework.xml
+E:\Egger\Anduril\Anduril.Web\bin\zh-Hans\EntityFramework.resources.dll

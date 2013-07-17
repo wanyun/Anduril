@@ -1,0 +1,5 @@
+E:\Egger\Anduril\Anduril.Core\bin\Anduril.Core.dll
+E:\Egger\Anduril\Anduril.Core\bin\Anduril.Core.pdb
+E:\Egger\Anduril\Anduril.Core\obj\Debug\Anduril.Core.csprojResolveAssemblyReference.cache
+E:\Egger\Anduril\Anduril.Core\obj\Debug\Anduril.Core.dll
+E:\Egger\Anduril\Anduril.Core\obj\Debug\Anduril.Core.pdb
